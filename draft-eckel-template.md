@@ -1,6 +1,6 @@
 ---
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "IETF Draft Template"
+abbrev: "GEN"
 category: info
 
 docname: draft-eckel-template-latest
